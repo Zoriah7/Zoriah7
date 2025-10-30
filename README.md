@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there! I'm Zoriah Wanjiku 🇰🇪</h1>
-<h3 align="center">A passionate Frontend Developer, penetration tester and lifelong learner based in Nairobi, Kenya.</h3>
+<h3 align="center">A passionate Frontend Developer, Penetration tester and lifelong learner based in Nairobi, Kenya.</h3>
 
 ---
 
@@ -9,6 +9,13 @@
 * 🌱 I'm currently diving into **Ethical Hacking** and **Cybersecurity** principles.
 * 💬 Feel free to ask me anything about **JavaScript**, **PHP**, **HTML5/CSS**, **Kotlin**, and general web architecture.
 * 📫 You can best reach me via email: **zwanjiku15@gmail.com**
+
+---
+
+## 🎓 Education & Certifications
+
+* **Microsoft Web and App Development Certificate** (FAWE Kenya) 
+* **Bachelors Degree** in **Records Management and Information Technology**
 
 ---
 
